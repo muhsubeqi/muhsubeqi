@@ -10,7 +10,7 @@
 ```javascript
 const aboutMe = {
   code: [PHP, Javascript, HTML, CSS, SQL],
-  tools: [ Laravel, Bootstrap, Tailwind]
+  tools: [Laravel, Bootstrap, Tailwind]
 }
 ```
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhsubeqi&theme=dark)
