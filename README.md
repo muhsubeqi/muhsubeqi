@@ -13,9 +13,6 @@ const aboutMe = {
   tools: [ Laravel, Bootstrap, Tailwind]
 }
 ```
-## Github Performance Overall
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhsubeqi&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhsubeqi&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhsubeqi&theme=dark)
 
 ⭐️ From [@Muhammad Subeqi](https://github.com/muhsubeqi)
