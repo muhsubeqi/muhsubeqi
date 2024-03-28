@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Hi, I'm Muhammad Subeqi!</h2>
+<p><em> Web Developer <img src="https://komarev.com/ghpvc/?username=muhammadsubeqi&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadSubeqi" />
 
-<!--
-**muhsubeqi/muhsubeqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</em></p>
 
-Here are some ideas to get you started:
+[![Linkedin: muhammadsubeqi](https://img.shields.io/badge/-muhammadsubeqi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-subeqi/)](https://www.linkedin.com/in/muhammad-subeqi/)
+[![GitHub Muhsubeqi](https://img.shields.io/github/followers/muhammadsubeqi?label=follow&style=social)](https://github.com/muhsubeqi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const aboutMe = {
+  code: [PHP, Javascript, Typescript, HTML, CSS, SQL],
+  tools: [ Laravel, Bootstrap, Tailwind]
+}
+```
+## Github Performance Overall
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhsubeqi&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhsubeqi&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhsubeqi&theme=dark)
+
+⭐️ From [@Muhammad Subeqi](https://github.com/muhsubeqi)
