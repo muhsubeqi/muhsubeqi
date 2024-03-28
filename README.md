@@ -9,7 +9,7 @@
 
 ```javascript
 const aboutMe = {
-  code: [PHP, Javascript, Typescript, HTML, CSS, SQL],
+  code: [PHP, Javascript, HTML, CSS, SQL],
   tools: [ Laravel, Bootstrap, Tailwind]
 }
 ```
