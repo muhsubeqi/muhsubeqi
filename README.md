@@ -3,7 +3,7 @@
 
 </em></p>
 
-[![Linkedin: muhammadsubeqi](https://img.shields.io/badge/-muhammadsubeqi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-subeqi/)](https://www.linkedin.com/in/muhammad-subeqi/)
+[![Linkedin: muhammadsubeqi](https://img.shields.io/badge/-muhammadsubeqi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-subeqi/)](https://www.linkedin.com/in/muhammadsubeqi/)
 [![GitHub Muhsubeqi](https://img.shields.io/github/followers/muhammadsubeqi?label=follow&style=social)](https://github.com/muhsubeqi)
 
 
