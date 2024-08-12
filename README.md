@@ -9,8 +9,8 @@
 
 ```javascript
 const aboutMe = {
-  code: [PHP, Javascript, HTML, CSS, SQL],
-  tools: [Laravel, Bootstrap]
+  code: [PHP, Javascript, SQL],
+  tools: [Laravel, Bootstrap 5]
 }
 ```
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhsubeqi&theme=dark)
